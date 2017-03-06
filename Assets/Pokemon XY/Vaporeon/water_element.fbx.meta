@@ -1,0 +1,1116 @@
+fileFormatVersion: 2
+guid: 16a9dabb5f74ed043ae4690fada7fc78
+timeCreated: 1464098632
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: Armature
+    100002: EndFeelerA
+    100004: EndFeelerA_end
+    100006: EndFeelerB
+    100008: EndFeelerB_end
+    100010: EndHips
+    100012: EndHips_end
+    100014: EndLEar2
+    100016: EndLEar2_end
+    100018: EndLFoot
+    100020: EndLFoot_end
+    100022: EndLHand
+    100024: EndLHand_end
+    100026: EndLTail
+    100028: EndLTail_end
+    100030: EndLToe
+    100032: EndLToe_end
+    100034: EndREar2
+    100036: EndREar2_end
+    100038: EndRFoot
+    100040: EndRFoot_end
+    100042: EndRHand
+    100044: EndRHand_end
+    100046: EndRTail
+    100048: EndRTail_end
+    100050: EndRToe
+    100052: EndRToe_end
+    100054: EndTail8
+    100056: EndTail8_end
+    100058: FeelerA
+    100060: FeelerB
+    100062: Head
+    100064: Hips
+    100066: LArm
+    100068: LEar1
+    100070: LEar2
+    100072: LFoot
+    100074: LForeArm
+    100076: LHand
+    100078: LLeg
+    100080: LShoulder
+    100082: LTail
+    100084: LThigh
+    100086: LToe
+    100088: Neck
+    100090: Origin
+    100092: pm0134_00
+    100094: pm0134_00_BodySkin
+    100096: pm0134_00_BodySkin_end
+    100098: RArm
+    100100: REar1
+    100102: REar2
+    100104: RFoot
+    100106: RForeArm
+    100108: RHand
+    100110: RLeg
+    100112: RShoulder
+    100114: RTail
+    100116: RThigh
+    100118: RToe
+    100120: Spine1
+    100122: Spine2
+    100124: Tail1
+    100126: Tail2
+    100128: Tail3
+    100130: Tail4
+    100132: Tail5
+    100134: Tail6
+    100136: Tail7
+    100138: Tail8
+    100140: Vaporeon
+    100142: Waist
+    100144: //RootNode
+    100146: Camera
+    100148: Lamp
+    100150: "\u7403\u9AD4"
+    400000: Armature
+    400002: EndFeelerA
+    400004: EndFeelerA_end
+    400006: EndFeelerB
+    400008: EndFeelerB_end
+    400010: EndHips
+    400012: EndHips_end
+    400014: EndLEar2
+    400016: EndLEar2_end
+    400018: EndLFoot
+    400020: EndLFoot_end
+    400022: EndLHand
+    400024: EndLHand_end
+    400026: EndLTail
+    400028: EndLTail_end
+    400030: EndLToe
+    400032: EndLToe_end
+    400034: EndREar2
+    400036: EndREar2_end
+    400038: EndRFoot
+    400040: EndRFoot_end
+    400042: EndRHand
+    400044: EndRHand_end
+    400046: EndRTail
+    400048: EndRTail_end
+    400050: EndRToe
+    400052: EndRToe_end
+    400054: EndTail8
+    400056: EndTail8_end
+    400058: FeelerA
+    400060: FeelerB
+    400062: Head
+    400064: Hips
+    400066: LArm
+    400068: LEar1
+    400070: LEar2
+    400072: LFoot
+    400074: LForeArm
+    400076: LHand
+    400078: LLeg
+    400080: LShoulder
+    400082: LTail
+    400084: LThigh
+    400086: LToe
+    400088: Neck
+    400090: Origin
+    400092: pm0134_00
+    400094: pm0134_00_BodySkin
+    400096: pm0134_00_BodySkin_end
+    400098: RArm
+    400100: REar1
+    400102: REar2
+    400104: RFoot
+    400106: RForeArm
+    400108: RHand
+    400110: RLeg
+    400112: RShoulder
+    400114: RTail
+    400116: RThigh
+    400118: RToe
+    400120: Spine1
+    400122: Spine2
+    400124: Tail1
+    400126: Tail2
+    400128: Tail3
+    400130: Tail4
+    400132: Tail5
+    400134: Tail6
+    400136: Tail7
+    400138: Tail8
+    400140: Vaporeon
+    400142: Waist
+    400144: //RootNode
+    400146: Camera
+    400148: Lamp
+    400150: "\u7403\u9AD4"
+    2300000: "\u7403\u9AD4"
+    3300000: "\u7403\u9AD4"
+    4300000: Vaporeon
+    4300002: "\u7403\u9AD4"
+    7400000: SlowStruggle
+    7400002: FastStruggle
+    7400004: Capture
+    7400006: CatchFail
+    7400008: Escape
+    9500000: //RootNode
+    13700000: Vaporeon
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleRotations: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: FastStruggle
+      takeName: Armature|ArmatureAction
+      firstFrame: 15
+      lastFrame: 35
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Armature
+        weight: 1
+      - path: Armature/pm0134_00
+        weight: 1
+      - path: Armature/pm0134_00/Origin
+        weight: 1
+      - path: Armature/pm0134_00/Origin/Waist
+        weight: 1
+      - path: Armature/pm0134_00/Origin/Waist/Hips
+        weight: 1
+      - path: Armature/pm0134_00/Origin/Waist/Hips/EndHips
+        weight: 1
+      - path: Armature/pm0134_00/Origin/Waist/Hips/EndHips/EndHips_end
+        weight: 1
+      - path: Armature/pm0134_00/Origin/Waist/Hips/LThigh
+        weight: 1
+      - path: Armature/pm0134_00/Origin/Waist/Hips/LThigh/LLeg
+        weight: 1
+      - path: Armature/pm0134_00/Origin/Waist/Hips/LThigh/LLeg/LFoot
+        weight: 1
+      - path: Armature/pm0134_00/Origin/Waist/Hips/LThigh/LLeg/LFoot/EndLFoot
+        weight: 1
+      - path: Armature/pm0134_00/Origin/Waist/Hips/LThigh/LLeg/LFoot/EndLFoot/EndLFoot_end
+        weight: 1
+      - path: Armature/pm0134_00/Origin/Waist/Hips/LThigh/LLeg/LFoot/LToe
+        weight: 1
+      - path: Armature/pm0134_00/Origin/Waist/Hips/LThigh/LLeg/LFoot/LToe/EndLToe
+        weight: 1
+      - path: Armature/pm0134_00/Origin/Waist/Hips/LThigh/LLeg/LFoot/LToe/EndLToe/EndLToe_end
+        weight: 1
+      - path: Armature/pm0134_00/Origin/Waist/Hips/RThigh
+        weight: 1
+      - path: Armature/pm0134_00/Origin/Waist/Hips/RThigh/RLeg
+        weight: 1
+      - path: Armature/pm0134_00/Origin/Waist/Hips/RThigh/RLeg/RFoot
+        weight: 1
+      - path: Armature/pm0134_00/Origin/Waist/Hips/RThigh/RLeg/RFoot/EndRFoot
+        weight: 1
+      - path: Armature/pm0134_00/Origin/Waist/Hips/RThigh/RLeg/RFoot/EndRFoot/EndRFoot_end
+        weight: 1
+      - path: Armature/pm0134_00/Origin/Waist/Hips/RThigh/RLeg/RFoot/RToe
+        weight: 1
+      - path: Armature/pm0134_00/Origin/Waist/Hips/RThigh/RLeg/RFoot/RToe/EndRToe
+        weight: 1
+      - path: Armature/pm0134_00/Origin/Waist/Hips/RThigh/RLeg/RFoot/RToe/EndRToe/EndRToe_end
+        weight: 1
+      - path: Armature/pm0134_00/Origin/Waist/Hips/Tail1
+        weight: 1
+      - path: Armature/pm0134_00/Origin/Waist/Hips/Tail1/Tail2
+        weight: 1
+      - path: Armature/pm0134_00/Origin/Waist/Hips/Tail1/Tail2/Tail3
+        weight: 1
+      - path: Armature/pm0134_00/Origin/Waist/Hips/Tail1/Tail2/Tail3/Tail4
+        weight: 1
+      - path: Armature/pm0134_00/Origin/Waist/Hips/Tail1/Tail2/Tail3/Tail4/Tail5
+        weight: 1
+      - path: Armature/pm0134_00/Origin/Waist/Hips/Tail1/Tail2/Tail3/Tail4/Tail5/Tail6
+        weight: 1
+      - path: Armature/pm0134_00/Origin/Waist/Hips/Tail1/Tail2/Tail3/Tail4/Tail5/Tail6/Tail7
+        weight: 1
+      - path: Armature/pm0134_00/Origin/Waist/Hips/Tail1/Tail2/Tail3/Tail4/Tail5/Tail6/Tail7/Tail8
+        weight: 1
+      - path: Armature/pm0134_00/Origin/Waist/Hips/Tail1/Tail2/Tail3/Tail4/Tail5/Tail6/Tail7/Tail8/EndTail8
+        weight: 1
+      - path: Armature/pm0134_00/Origin/Waist/Hips/Tail1/Tail2/Tail3/Tail4/Tail5/Tail6/Tail7/Tail8/EndTail8/EndTail8_end
+        weight: 1
+      - path: Armature/pm0134_00/Origin/Waist/Hips/Tail1/Tail2/Tail3/Tail4/Tail5/Tail6/Tail7/Tail8/LTail
+        weight: 1
+      - path: Armature/pm0134_00/Origin/Waist/Hips/Tail1/Tail2/Tail3/Tail4/Tail5/Tail6/Tail7/Tail8/LTail/EndLTail
+        weight: 1
+      - path: Armature/pm0134_00/Origin/Waist/Hips/Tail1/Tail2/Tail3/Tail4/Tail5/Tail6/Tail7/Tail8/LTail/EndLTail/EndLTail_end
+        weight: 1
+      - path: Armature/pm0134_00/Origin/Waist/Hips/Tail1/Tail2/Tail3/Tail4/Tail5/Tail6/Tail7/Tail8/RTail
+        weight: 1
+      - path: Armature/pm0134_00/Origin/Waist/Hips/Tail1/Tail2/Tail3/Tail4/Tail5/Tail6/Tail7/Tail8/RTail/EndRTail
+        weight: 1
+      - path: Armature/pm0134_00/Origin/Waist/Hips/Tail1/Tail2/Tail3/Tail4/Tail5/Tail6/Tail7/Tail8/RTail/EndRTail/EndRTail_end
+        weight: 1
+      - path: Armature/pm0134_00/Origin/Waist/Spine1
+        weight: 1
+      - path: Armature/pm0134_00/Origin/Waist/Spine1/Spine2
+        weight: 1
+      - path: Armature/pm0134_00/Origin/Waist/Spine1/Spine2/LShoulder
+        weight: 1
+      - path: Armature/pm0134_00/Origin/Waist/Spine1/Spine2/LShoulder/LArm
+        weight: 1
+      - path: Armature/pm0134_00/Origin/Waist/Spine1/Spine2/LShoulder/LArm/LForeArm
+        weight: 1
+      - path: Armature/pm0134_00/Origin/Waist/Spine1/Spine2/LShoulder/LArm/LForeArm/LHand
+        weight: 1
+      - path: Armature/pm0134_00/Origin/Waist/Spine1/Spine2/LShoulder/LArm/LForeArm/LHand/EndLHand
+        weight: 1
+      - path: Armature/pm0134_00/Origin/Waist/Spine1/Spine2/LShoulder/LArm/LForeArm/LHand/EndLHand/EndLHand_end
+        weight: 1
+      - path: Armature/pm0134_00/Origin/Waist/Spine1/Spine2/Neck
+        weight: 1
+      - path: Armature/pm0134_00/Origin/Waist/Spine1/Spine2/Neck/Head
+        weight: 1
+      - path: Armature/pm0134_00/Origin/Waist/Spine1/Spine2/Neck/Head/FeelerA
+        weight: 1
+      - path: Armature/pm0134_00/Origin/Waist/Spine1/Spine2/Neck/Head/FeelerA/EndFeelerA
+        weight: 1
+      - path: Armature/pm0134_00/Origin/Waist/Spine1/Spine2/Neck/Head/FeelerA/EndFeelerA/EndFeelerA_end
+        weight: 1
+      - path: Armature/pm0134_00/Origin/Waist/Spine1/Spine2/Neck/Head/FeelerB
+        weight: 1
+      - path: Armature/pm0134_00/Origin/Waist/Spine1/Spine2/Neck/Head/FeelerB/EndFeelerB
+        weight: 1
+      - path: Armature/pm0134_00/Origin/Waist/Spine1/Spine2/Neck/Head/FeelerB/EndFeelerB/EndFeelerB_end
+        weight: 1
+      - path: Armature/pm0134_00/Origin/Waist/Spine1/Spine2/Neck/Head/LEar1
+        weight: 1
+      - path: Armature/pm0134_00/Origin/Waist/Spine1/Spine2/Neck/Head/LEar1/LEar2
+        weight: 1
+      - path: Armature/pm0134_00/Origin/Waist/Spine1/Spine2/Neck/Head/LEar1/LEar2/EndLEar2
+        weight: 1
+      - path: Armature/pm0134_00/Origin/Waist/Spine1/Spine2/Neck/Head/LEar1/LEar2/EndLEar2/EndLEar2_end
+        weight: 1
+      - path: Armature/pm0134_00/Origin/Waist/Spine1/Spine2/Neck/Head/REar1
+        weight: 1
+      - path: Armature/pm0134_00/Origin/Waist/Spine1/Spine2/Neck/Head/REar1/REar2
+        weight: 1
+      - path: Armature/pm0134_00/Origin/Waist/Spine1/Spine2/Neck/Head/REar1/REar2/EndREar2
+        weight: 1
+      - path: Armature/pm0134_00/Origin/Waist/Spine1/Spine2/Neck/Head/REar1/REar2/EndREar2/EndREar2_end
+        weight: 1
+      - path: Armature/pm0134_00/Origin/Waist/Spine1/Spine2/RShoulder
+        weight: 1
+      - path: Armature/pm0134_00/Origin/Waist/Spine1/Spine2/RShoulder/RArm
+        weight: 1
+      - path: Armature/pm0134_00/Origin/Waist/Spine1/Spine2/RShoulder/RArm/RForeArm
+        weight: 1
+      - path: Armature/pm0134_00/Origin/Waist/Spine1/Spine2/RShoulder/RArm/RForeArm/RHand
+        weight: 1
+      - path: Armature/pm0134_00/Origin/Waist/Spine1/Spine2/RShoulder/RArm/RForeArm/RHand/EndRHand
+        weight: 1
+      - path: Armature/pm0134_00/Origin/Waist/Spine1/Spine2/RShoulder/RArm/RForeArm/RHand/EndRHand/EndRHand_end
+        weight: 1
+      - path: Armature/pm0134_00/pm0134_00_BodySkin
+        weight: 1
+      - path: Armature/pm0134_00/pm0134_00_BodySkin/pm0134_00_BodySkin_end
+        weight: 1
+      - path: Camera
+        weight: 1
+      - path: Lamp
+        weight: 1
+      - path: Vaporeon
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: SlowStruggle
+      takeName: Armature|ArmatureAction
+      firstFrame: 45
+      lastFrame: 115
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Armature
+        weight: 1
+      - path: Armature/pm0134_00
+        weight: 1
+      - path: Armature/pm0134_00/Origin
+        weight: 1
+      - path: Armature/pm0134_00/Origin/Waist
+        weight: 1
+      - path: Armature/pm0134_00/Origin/Waist/Hips
+        weight: 1
+      - path: Armature/pm0134_00/Origin/Waist/Hips/EndHips
+        weight: 1
+      - path: Armature/pm0134_00/Origin/Waist/Hips/EndHips/EndHips_end
+        weight: 1
+      - path: Armature/pm0134_00/Origin/Waist/Hips/LThigh
+        weight: 1
+      - path: Armature/pm0134_00/Origin/Waist/Hips/LThigh/LLeg
+        weight: 1
+      - path: Armature/pm0134_00/Origin/Waist/Hips/LThigh/LLeg/LFoot
+        weight: 1
+      - path: Armature/pm0134_00/Origin/Waist/Hips/LThigh/LLeg/LFoot/EndLFoot
+        weight: 1
+      - path: Armature/pm0134_00/Origin/Waist/Hips/LThigh/LLeg/LFoot/EndLFoot/EndLFoot_end
+        weight: 1
+      - path: Armature/pm0134_00/Origin/Waist/Hips/LThigh/LLeg/LFoot/LToe
+        weight: 1
+      - path: Armature/pm0134_00/Origin/Waist/Hips/LThigh/LLeg/LFoot/LToe/EndLToe
+        weight: 1
+      - path: Armature/pm0134_00/Origin/Waist/Hips/LThigh/LLeg/LFoot/LToe/EndLToe/EndLToe_end
+        weight: 1
+      - path: Armature/pm0134_00/Origin/Waist/Hips/RThigh
+        weight: 1
+      - path: Armature/pm0134_00/Origin/Waist/Hips/RThigh/RLeg
+        weight: 1
+      - path: Armature/pm0134_00/Origin/Waist/Hips/RThigh/RLeg/RFoot
+        weight: 1
+      - path: Armature/pm0134_00/Origin/Waist/Hips/RThigh/RLeg/RFoot/EndRFoot
+        weight: 1
+      - path: Armature/pm0134_00/Origin/Waist/Hips/RThigh/RLeg/RFoot/EndRFoot/EndRFoot_end
+        weight: 1
+      - path: Armature/pm0134_00/Origin/Waist/Hips/RThigh/RLeg/RFoot/RToe
+        weight: 1
+      - path: Armature/pm0134_00/Origin/Waist/Hips/RThigh/RLeg/RFoot/RToe/EndRToe
+        weight: 1
+      - path: Armature/pm0134_00/Origin/Waist/Hips/RThigh/RLeg/RFoot/RToe/EndRToe/EndRToe_end
+        weight: 1
+      - path: Armature/pm0134_00/Origin/Waist/Hips/Tail1
+        weight: 1
+      - path: Armature/pm0134_00/Origin/Waist/Hips/Tail1/Tail2
+        weight: 1
+      - path: Armature/pm0134_00/Origin/Waist/Hips/Tail1/Tail2/Tail3
+        weight: 1
+      - path: Armature/pm0134_00/Origin/Waist/Hips/Tail1/Tail2/Tail3/Tail4
+        weight: 1
+      - path: Armature/pm0134_00/Origin/Waist/Hips/Tail1/Tail2/Tail3/Tail4/Tail5
+        weight: 1
+      - path: Armature/pm0134_00/Origin/Waist/Hips/Tail1/Tail2/Tail3/Tail4/Tail5/Tail6
+        weight: 1
+      - path: Armature/pm0134_00/Origin/Waist/Hips/Tail1/Tail2/Tail3/Tail4/Tail5/Tail6/Tail7
+        weight: 1
+      - path: Armature/pm0134_00/Origin/Waist/Hips/Tail1/Tail2/Tail3/Tail4/Tail5/Tail6/Tail7/Tail8
+        weight: 1
+      - path: Armature/pm0134_00/Origin/Waist/Hips/Tail1/Tail2/Tail3/Tail4/Tail5/Tail6/Tail7/Tail8/EndTail8
+        weight: 1
+      - path: Armature/pm0134_00/Origin/Waist/Hips/Tail1/Tail2/Tail3/Tail4/Tail5/Tail6/Tail7/Tail8/EndTail8/EndTail8_end
+        weight: 1
+      - path: Armature/pm0134_00/Origin/Waist/Hips/Tail1/Tail2/Tail3/Tail4/Tail5/Tail6/Tail7/Tail8/LTail
+        weight: 1
+      - path: Armature/pm0134_00/Origin/Waist/Hips/Tail1/Tail2/Tail3/Tail4/Tail5/Tail6/Tail7/Tail8/LTail/EndLTail
+        weight: 1
+      - path: Armature/pm0134_00/Origin/Waist/Hips/Tail1/Tail2/Tail3/Tail4/Tail5/Tail6/Tail7/Tail8/LTail/EndLTail/EndLTail_end
+        weight: 1
+      - path: Armature/pm0134_00/Origin/Waist/Hips/Tail1/Tail2/Tail3/Tail4/Tail5/Tail6/Tail7/Tail8/RTail
+        weight: 1
+      - path: Armature/pm0134_00/Origin/Waist/Hips/Tail1/Tail2/Tail3/Tail4/Tail5/Tail6/Tail7/Tail8/RTail/EndRTail
+        weight: 1
+      - path: Armature/pm0134_00/Origin/Waist/Hips/Tail1/Tail2/Tail3/Tail4/Tail5/Tail6/Tail7/Tail8/RTail/EndRTail/EndRTail_end
+        weight: 1
+      - path: Armature/pm0134_00/Origin/Waist/Spine1
+        weight: 1
+      - path: Armature/pm0134_00/Origin/Waist/Spine1/Spine2
+        weight: 1
+      - path: Armature/pm0134_00/Origin/Waist/Spine1/Spine2/LShoulder
+        weight: 1
+      - path: Armature/pm0134_00/Origin/Waist/Spine1/Spine2/LShoulder/LArm
+        weight: 1
+      - path: Armature/pm0134_00/Origin/Waist/Spine1/Spine2/LShoulder/LArm/LForeArm
+        weight: 1
+      - path: Armature/pm0134_00/Origin/Waist/Spine1/Spine2/LShoulder/LArm/LForeArm/LHand
+        weight: 1
+      - path: Armature/pm0134_00/Origin/Waist/Spine1/Spine2/LShoulder/LArm/LForeArm/LHand/EndLHand
+        weight: 1
+      - path: Armature/pm0134_00/Origin/Waist/Spine1/Spine2/LShoulder/LArm/LForeArm/LHand/EndLHand/EndLHand_end
+        weight: 1
+      - path: Armature/pm0134_00/Origin/Waist/Spine1/Spine2/Neck
+        weight: 1
+      - path: Armature/pm0134_00/Origin/Waist/Spine1/Spine2/Neck/Head
+        weight: 1
+      - path: Armature/pm0134_00/Origin/Waist/Spine1/Spine2/Neck/Head/FeelerA
+        weight: 1
+      - path: Armature/pm0134_00/Origin/Waist/Spine1/Spine2/Neck/Head/FeelerA/EndFeelerA
+        weight: 1
+      - path: Armature/pm0134_00/Origin/Waist/Spine1/Spine2/Neck/Head/FeelerA/EndFeelerA/EndFeelerA_end
+        weight: 1
+      - path: Armature/pm0134_00/Origin/Waist/Spine1/Spine2/Neck/Head/FeelerB
+        weight: 1
+      - path: Armature/pm0134_00/Origin/Waist/Spine1/Spine2/Neck/Head/FeelerB/EndFeelerB
+        weight: 1
+      - path: Armature/pm0134_00/Origin/Waist/Spine1/Spine2/Neck/Head/FeelerB/EndFeelerB/EndFeelerB_end
+        weight: 1
+      - path: Armature/pm0134_00/Origin/Waist/Spine1/Spine2/Neck/Head/LEar1
+        weight: 1
+      - path: Armature/pm0134_00/Origin/Waist/Spine1/Spine2/Neck/Head/LEar1/LEar2
+        weight: 1
+      - path: Armature/pm0134_00/Origin/Waist/Spine1/Spine2/Neck/Head/LEar1/LEar2/EndLEar2
+        weight: 1
+      - path: Armature/pm0134_00/Origin/Waist/Spine1/Spine2/Neck/Head/LEar1/LEar2/EndLEar2/EndLEar2_end
+        weight: 1
+      - path: Armature/pm0134_00/Origin/Waist/Spine1/Spine2/Neck/Head/REar1
+        weight: 1
+      - path: Armature/pm0134_00/Origin/Waist/Spine1/Spine2/Neck/Head/REar1/REar2
+        weight: 1
+      - path: Armature/pm0134_00/Origin/Waist/Spine1/Spine2/Neck/Head/REar1/REar2/EndREar2
+        weight: 1
+      - path: Armature/pm0134_00/Origin/Waist/Spine1/Spine2/Neck/Head/REar1/REar2/EndREar2/EndREar2_end
+        weight: 1
+      - path: Armature/pm0134_00/Origin/Waist/Spine1/Spine2/RShoulder
+        weight: 1
+      - path: Armature/pm0134_00/Origin/Waist/Spine1/Spine2/RShoulder/RArm
+        weight: 1
+      - path: Armature/pm0134_00/Origin/Waist/Spine1/Spine2/RShoulder/RArm/RForeArm
+        weight: 1
+      - path: Armature/pm0134_00/Origin/Waist/Spine1/Spine2/RShoulder/RArm/RForeArm/RHand
+        weight: 1
+      - path: Armature/pm0134_00/Origin/Waist/Spine1/Spine2/RShoulder/RArm/RForeArm/RHand/EndRHand
+        weight: 1
+      - path: Armature/pm0134_00/Origin/Waist/Spine1/Spine2/RShoulder/RArm/RForeArm/RHand/EndRHand/EndRHand_end
+        weight: 1
+      - path: Armature/pm0134_00/pm0134_00_BodySkin
+        weight: 1
+      - path: Armature/pm0134_00/pm0134_00_BodySkin/pm0134_00_BodySkin_end
+        weight: 1
+      - path: Camera
+        weight: 1
+      - path: Lamp
+        weight: 1
+      - path: Vaporeon
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Capture
+      takeName: Armature|ArmatureAction
+      firstFrame: 115
+      lastFrame: 159
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Armature
+        weight: 1
+      - path: Armature/pm0134_00
+        weight: 1
+      - path: Armature/pm0134_00/Origin
+        weight: 1
+      - path: Armature/pm0134_00/Origin/Waist
+        weight: 1
+      - path: Armature/pm0134_00/Origin/Waist/Hips
+        weight: 1
+      - path: Armature/pm0134_00/Origin/Waist/Hips/EndHips
+        weight: 1
+      - path: Armature/pm0134_00/Origin/Waist/Hips/EndHips/EndHips_end
+        weight: 1
+      - path: Armature/pm0134_00/Origin/Waist/Hips/LThigh
+        weight: 1
+      - path: Armature/pm0134_00/Origin/Waist/Hips/LThigh/LLeg
+        weight: 1
+      - path: Armature/pm0134_00/Origin/Waist/Hips/LThigh/LLeg/LFoot
+        weight: 1
+      - path: Armature/pm0134_00/Origin/Waist/Hips/LThigh/LLeg/LFoot/EndLFoot
+        weight: 1
+      - path: Armature/pm0134_00/Origin/Waist/Hips/LThigh/LLeg/LFoot/EndLFoot/EndLFoot_end
+        weight: 1
+      - path: Armature/pm0134_00/Origin/Waist/Hips/LThigh/LLeg/LFoot/LToe
+        weight: 1
+      - path: Armature/pm0134_00/Origin/Waist/Hips/LThigh/LLeg/LFoot/LToe/EndLToe
+        weight: 1
+      - path: Armature/pm0134_00/Origin/Waist/Hips/LThigh/LLeg/LFoot/LToe/EndLToe/EndLToe_end
+        weight: 1
+      - path: Armature/pm0134_00/Origin/Waist/Hips/RThigh
+        weight: 1
+      - path: Armature/pm0134_00/Origin/Waist/Hips/RThigh/RLeg
+        weight: 1
+      - path: Armature/pm0134_00/Origin/Waist/Hips/RThigh/RLeg/RFoot
+        weight: 1
+      - path: Armature/pm0134_00/Origin/Waist/Hips/RThigh/RLeg/RFoot/EndRFoot
+        weight: 1
+      - path: Armature/pm0134_00/Origin/Waist/Hips/RThigh/RLeg/RFoot/EndRFoot/EndRFoot_end
+        weight: 1
+      - path: Armature/pm0134_00/Origin/Waist/Hips/RThigh/RLeg/RFoot/RToe
+        weight: 1
+      - path: Armature/pm0134_00/Origin/Waist/Hips/RThigh/RLeg/RFoot/RToe/EndRToe
+        weight: 1
+      - path: Armature/pm0134_00/Origin/Waist/Hips/RThigh/RLeg/RFoot/RToe/EndRToe/EndRToe_end
+        weight: 1
+      - path: Armature/pm0134_00/Origin/Waist/Hips/Tail1
+        weight: 1
+      - path: Armature/pm0134_00/Origin/Waist/Hips/Tail1/Tail2
+        weight: 1
+      - path: Armature/pm0134_00/Origin/Waist/Hips/Tail1/Tail2/Tail3
+        weight: 1
+      - path: Armature/pm0134_00/Origin/Waist/Hips/Tail1/Tail2/Tail3/Tail4
+        weight: 1
+      - path: Armature/pm0134_00/Origin/Waist/Hips/Tail1/Tail2/Tail3/Tail4/Tail5
+        weight: 1
+      - path: Armature/pm0134_00/Origin/Waist/Hips/Tail1/Tail2/Tail3/Tail4/Tail5/Tail6
+        weight: 1
+      - path: Armature/pm0134_00/Origin/Waist/Hips/Tail1/Tail2/Tail3/Tail4/Tail5/Tail6/Tail7
+        weight: 1
+      - path: Armature/pm0134_00/Origin/Waist/Hips/Tail1/Tail2/Tail3/Tail4/Tail5/Tail6/Tail7/Tail8
+        weight: 1
+      - path: Armature/pm0134_00/Origin/Waist/Hips/Tail1/Tail2/Tail3/Tail4/Tail5/Tail6/Tail7/Tail8/EndTail8
+        weight: 1
+      - path: Armature/pm0134_00/Origin/Waist/Hips/Tail1/Tail2/Tail3/Tail4/Tail5/Tail6/Tail7/Tail8/EndTail8/EndTail8_end
+        weight: 1
+      - path: Armature/pm0134_00/Origin/Waist/Hips/Tail1/Tail2/Tail3/Tail4/Tail5/Tail6/Tail7/Tail8/LTail
+        weight: 1
+      - path: Armature/pm0134_00/Origin/Waist/Hips/Tail1/Tail2/Tail3/Tail4/Tail5/Tail6/Tail7/Tail8/LTail/EndLTail
+        weight: 1
+      - path: Armature/pm0134_00/Origin/Waist/Hips/Tail1/Tail2/Tail3/Tail4/Tail5/Tail6/Tail7/Tail8/LTail/EndLTail/EndLTail_end
+        weight: 1
+      - path: Armature/pm0134_00/Origin/Waist/Hips/Tail1/Tail2/Tail3/Tail4/Tail5/Tail6/Tail7/Tail8/RTail
+        weight: 1
+      - path: Armature/pm0134_00/Origin/Waist/Hips/Tail1/Tail2/Tail3/Tail4/Tail5/Tail6/Tail7/Tail8/RTail/EndRTail
+        weight: 1
+      - path: Armature/pm0134_00/Origin/Waist/Hips/Tail1/Tail2/Tail3/Tail4/Tail5/Tail6/Tail7/Tail8/RTail/EndRTail/EndRTail_end
+        weight: 1
+      - path: Armature/pm0134_00/Origin/Waist/Spine1
+        weight: 1
+      - path: Armature/pm0134_00/Origin/Waist/Spine1/Spine2
+        weight: 1
+      - path: Armature/pm0134_00/Origin/Waist/Spine1/Spine2/LShoulder
+        weight: 1
+      - path: Armature/pm0134_00/Origin/Waist/Spine1/Spine2/LShoulder/LArm
+        weight: 1
+      - path: Armature/pm0134_00/Origin/Waist/Spine1/Spine2/LShoulder/LArm/LForeArm
+        weight: 1
+      - path: Armature/pm0134_00/Origin/Waist/Spine1/Spine2/LShoulder/LArm/LForeArm/LHand
+        weight: 1
+      - path: Armature/pm0134_00/Origin/Waist/Spine1/Spine2/LShoulder/LArm/LForeArm/LHand/EndLHand
+        weight: 1
+      - path: Armature/pm0134_00/Origin/Waist/Spine1/Spine2/LShoulder/LArm/LForeArm/LHand/EndLHand/EndLHand_end
+        weight: 1
+      - path: Armature/pm0134_00/Origin/Waist/Spine1/Spine2/Neck
+        weight: 1
+      - path: Armature/pm0134_00/Origin/Waist/Spine1/Spine2/Neck/Head
+        weight: 1
+      - path: Armature/pm0134_00/Origin/Waist/Spine1/Spine2/Neck/Head/FeelerA
+        weight: 1
+      - path: Armature/pm0134_00/Origin/Waist/Spine1/Spine2/Neck/Head/FeelerA/EndFeelerA
+        weight: 1
+      - path: Armature/pm0134_00/Origin/Waist/Spine1/Spine2/Neck/Head/FeelerA/EndFeelerA/EndFeelerA_end
+        weight: 1
+      - path: Armature/pm0134_00/Origin/Waist/Spine1/Spine2/Neck/Head/FeelerB
+        weight: 1
+      - path: Armature/pm0134_00/Origin/Waist/Spine1/Spine2/Neck/Head/FeelerB/EndFeelerB
+        weight: 1
+      - path: Armature/pm0134_00/Origin/Waist/Spine1/Spine2/Neck/Head/FeelerB/EndFeelerB/EndFeelerB_end
+        weight: 1
+      - path: Armature/pm0134_00/Origin/Waist/Spine1/Spine2/Neck/Head/LEar1
+        weight: 1
+      - path: Armature/pm0134_00/Origin/Waist/Spine1/Spine2/Neck/Head/LEar1/LEar2
+        weight: 1
+      - path: Armature/pm0134_00/Origin/Waist/Spine1/Spine2/Neck/Head/LEar1/LEar2/EndLEar2
+        weight: 1
+      - path: Armature/pm0134_00/Origin/Waist/Spine1/Spine2/Neck/Head/LEar1/LEar2/EndLEar2/EndLEar2_end
+        weight: 1
+      - path: Armature/pm0134_00/Origin/Waist/Spine1/Spine2/Neck/Head/REar1
+        weight: 1
+      - path: Armature/pm0134_00/Origin/Waist/Spine1/Spine2/Neck/Head/REar1/REar2
+        weight: 1
+      - path: Armature/pm0134_00/Origin/Waist/Spine1/Spine2/Neck/Head/REar1/REar2/EndREar2
+        weight: 1
+      - path: Armature/pm0134_00/Origin/Waist/Spine1/Spine2/Neck/Head/REar1/REar2/EndREar2/EndREar2_end
+        weight: 1
+      - path: Armature/pm0134_00/Origin/Waist/Spine1/Spine2/RShoulder
+        weight: 1
+      - path: Armature/pm0134_00/Origin/Waist/Spine1/Spine2/RShoulder/RArm
+        weight: 1
+      - path: Armature/pm0134_00/Origin/Waist/Spine1/Spine2/RShoulder/RArm/RForeArm
+        weight: 1
+      - path: Armature/pm0134_00/Origin/Waist/Spine1/Spine2/RShoulder/RArm/RForeArm/RHand
+        weight: 1
+      - path: Armature/pm0134_00/Origin/Waist/Spine1/Spine2/RShoulder/RArm/RForeArm/RHand/EndRHand
+        weight: 1
+      - path: Armature/pm0134_00/Origin/Waist/Spine1/Spine2/RShoulder/RArm/RForeArm/RHand/EndRHand/EndRHand_end
+        weight: 1
+      - path: Armature/pm0134_00/pm0134_00_BodySkin
+        weight: 1
+      - path: Armature/pm0134_00/pm0134_00_BodySkin/pm0134_00_BodySkin_end
+        weight: 1
+      - path: Camera
+        weight: 1
+      - path: Lamp
+        weight: 1
+      - path: Vaporeon
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: CatchFail
+      takeName: Armature|ArmatureAction
+      firstFrame: 159
+      lastFrame: 229
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Armature
+        weight: 1
+      - path: Armature/pm0134_00
+        weight: 1
+      - path: Armature/pm0134_00/Origin
+        weight: 1
+      - path: Armature/pm0134_00/Origin/Waist
+        weight: 1
+      - path: Armature/pm0134_00/Origin/Waist/Hips
+        weight: 1
+      - path: Armature/pm0134_00/Origin/Waist/Hips/EndHips
+        weight: 1
+      - path: Armature/pm0134_00/Origin/Waist/Hips/EndHips/EndHips_end
+        weight: 1
+      - path: Armature/pm0134_00/Origin/Waist/Hips/LThigh
+        weight: 1
+      - path: Armature/pm0134_00/Origin/Waist/Hips/LThigh/LLeg
+        weight: 1
+      - path: Armature/pm0134_00/Origin/Waist/Hips/LThigh/LLeg/LFoot
+        weight: 1
+      - path: Armature/pm0134_00/Origin/Waist/Hips/LThigh/LLeg/LFoot/EndLFoot
+        weight: 1
+      - path: Armature/pm0134_00/Origin/Waist/Hips/LThigh/LLeg/LFoot/EndLFoot/EndLFoot_end
+        weight: 1
+      - path: Armature/pm0134_00/Origin/Waist/Hips/LThigh/LLeg/LFoot/LToe
+        weight: 1
+      - path: Armature/pm0134_00/Origin/Waist/Hips/LThigh/LLeg/LFoot/LToe/EndLToe
+        weight: 1
+      - path: Armature/pm0134_00/Origin/Waist/Hips/LThigh/LLeg/LFoot/LToe/EndLToe/EndLToe_end
+        weight: 1
+      - path: Armature/pm0134_00/Origin/Waist/Hips/RThigh
+        weight: 1
+      - path: Armature/pm0134_00/Origin/Waist/Hips/RThigh/RLeg
+        weight: 1
+      - path: Armature/pm0134_00/Origin/Waist/Hips/RThigh/RLeg/RFoot
+        weight: 1
+      - path: Armature/pm0134_00/Origin/Waist/Hips/RThigh/RLeg/RFoot/EndRFoot
+        weight: 1
+      - path: Armature/pm0134_00/Origin/Waist/Hips/RThigh/RLeg/RFoot/EndRFoot/EndRFoot_end
+        weight: 1
+      - path: Armature/pm0134_00/Origin/Waist/Hips/RThigh/RLeg/RFoot/RToe
+        weight: 1
+      - path: Armature/pm0134_00/Origin/Waist/Hips/RThigh/RLeg/RFoot/RToe/EndRToe
+        weight: 1
+      - path: Armature/pm0134_00/Origin/Waist/Hips/RThigh/RLeg/RFoot/RToe/EndRToe/EndRToe_end
+        weight: 1
+      - path: Armature/pm0134_00/Origin/Waist/Hips/Tail1
+        weight: 1
+      - path: Armature/pm0134_00/Origin/Waist/Hips/Tail1/Tail2
+        weight: 1
+      - path: Armature/pm0134_00/Origin/Waist/Hips/Tail1/Tail2/Tail3
+        weight: 1
+      - path: Armature/pm0134_00/Origin/Waist/Hips/Tail1/Tail2/Tail3/Tail4
+        weight: 1
+      - path: Armature/pm0134_00/Origin/Waist/Hips/Tail1/Tail2/Tail3/Tail4/Tail5
+        weight: 1
+      - path: Armature/pm0134_00/Origin/Waist/Hips/Tail1/Tail2/Tail3/Tail4/Tail5/Tail6
+        weight: 1
+      - path: Armature/pm0134_00/Origin/Waist/Hips/Tail1/Tail2/Tail3/Tail4/Tail5/Tail6/Tail7
+        weight: 1
+      - path: Armature/pm0134_00/Origin/Waist/Hips/Tail1/Tail2/Tail3/Tail4/Tail5/Tail6/Tail7/Tail8
+        weight: 1
+      - path: Armature/pm0134_00/Origin/Waist/Hips/Tail1/Tail2/Tail3/Tail4/Tail5/Tail6/Tail7/Tail8/EndTail8
+        weight: 1
+      - path: Armature/pm0134_00/Origin/Waist/Hips/Tail1/Tail2/Tail3/Tail4/Tail5/Tail6/Tail7/Tail8/EndTail8/EndTail8_end
+        weight: 1
+      - path: Armature/pm0134_00/Origin/Waist/Hips/Tail1/Tail2/Tail3/Tail4/Tail5/Tail6/Tail7/Tail8/LTail
+        weight: 1
+      - path: Armature/pm0134_00/Origin/Waist/Hips/Tail1/Tail2/Tail3/Tail4/Tail5/Tail6/Tail7/Tail8/LTail/EndLTail
+        weight: 1
+      - path: Armature/pm0134_00/Origin/Waist/Hips/Tail1/Tail2/Tail3/Tail4/Tail5/Tail6/Tail7/Tail8/LTail/EndLTail/EndLTail_end
+        weight: 1
+      - path: Armature/pm0134_00/Origin/Waist/Hips/Tail1/Tail2/Tail3/Tail4/Tail5/Tail6/Tail7/Tail8/RTail
+        weight: 1
+      - path: Armature/pm0134_00/Origin/Waist/Hips/Tail1/Tail2/Tail3/Tail4/Tail5/Tail6/Tail7/Tail8/RTail/EndRTail
+        weight: 1
+      - path: Armature/pm0134_00/Origin/Waist/Hips/Tail1/Tail2/Tail3/Tail4/Tail5/Tail6/Tail7/Tail8/RTail/EndRTail/EndRTail_end
+        weight: 1
+      - path: Armature/pm0134_00/Origin/Waist/Spine1
+        weight: 1
+      - path: Armature/pm0134_00/Origin/Waist/Spine1/Spine2
+        weight: 1
+      - path: Armature/pm0134_00/Origin/Waist/Spine1/Spine2/LShoulder
+        weight: 1
+      - path: Armature/pm0134_00/Origin/Waist/Spine1/Spine2/LShoulder/LArm
+        weight: 1
+      - path: Armature/pm0134_00/Origin/Waist/Spine1/Spine2/LShoulder/LArm/LForeArm
+        weight: 1
+      - path: Armature/pm0134_00/Origin/Waist/Spine1/Spine2/LShoulder/LArm/LForeArm/LHand
+        weight: 1
+      - path: Armature/pm0134_00/Origin/Waist/Spine1/Spine2/LShoulder/LArm/LForeArm/LHand/EndLHand
+        weight: 1
+      - path: Armature/pm0134_00/Origin/Waist/Spine1/Spine2/LShoulder/LArm/LForeArm/LHand/EndLHand/EndLHand_end
+        weight: 1
+      - path: Armature/pm0134_00/Origin/Waist/Spine1/Spine2/Neck
+        weight: 1
+      - path: Armature/pm0134_00/Origin/Waist/Spine1/Spine2/Neck/Head
+        weight: 1
+      - path: Armature/pm0134_00/Origin/Waist/Spine1/Spine2/Neck/Head/FeelerA
+        weight: 1
+      - path: Armature/pm0134_00/Origin/Waist/Spine1/Spine2/Neck/Head/FeelerA/EndFeelerA
+        weight: 1
+      - path: Armature/pm0134_00/Origin/Waist/Spine1/Spine2/Neck/Head/FeelerA/EndFeelerA/EndFeelerA_end
+        weight: 1
+      - path: Armature/pm0134_00/Origin/Waist/Spine1/Spine2/Neck/Head/FeelerB
+        weight: 1
+      - path: Armature/pm0134_00/Origin/Waist/Spine1/Spine2/Neck/Head/FeelerB/EndFeelerB
+        weight: 1
+      - path: Armature/pm0134_00/Origin/Waist/Spine1/Spine2/Neck/Head/FeelerB/EndFeelerB/EndFeelerB_end
+        weight: 1
+      - path: Armature/pm0134_00/Origin/Waist/Spine1/Spine2/Neck/Head/LEar1
+        weight: 1
+      - path: Armature/pm0134_00/Origin/Waist/Spine1/Spine2/Neck/Head/LEar1/LEar2
+        weight: 1
+      - path: Armature/pm0134_00/Origin/Waist/Spine1/Spine2/Neck/Head/LEar1/LEar2/EndLEar2
+        weight: 1
+      - path: Armature/pm0134_00/Origin/Waist/Spine1/Spine2/Neck/Head/LEar1/LEar2/EndLEar2/EndLEar2_end
+        weight: 1
+      - path: Armature/pm0134_00/Origin/Waist/Spine1/Spine2/Neck/Head/REar1
+        weight: 1
+      - path: Armature/pm0134_00/Origin/Waist/Spine1/Spine2/Neck/Head/REar1/REar2
+        weight: 1
+      - path: Armature/pm0134_00/Origin/Waist/Spine1/Spine2/Neck/Head/REar1/REar2/EndREar2
+        weight: 1
+      - path: Armature/pm0134_00/Origin/Waist/Spine1/Spine2/Neck/Head/REar1/REar2/EndREar2/EndREar2_end
+        weight: 1
+      - path: Armature/pm0134_00/Origin/Waist/Spine1/Spine2/RShoulder
+        weight: 1
+      - path: Armature/pm0134_00/Origin/Waist/Spine1/Spine2/RShoulder/RArm
+        weight: 1
+      - path: Armature/pm0134_00/Origin/Waist/Spine1/Spine2/RShoulder/RArm/RForeArm
+        weight: 1
+      - path: Armature/pm0134_00/Origin/Waist/Spine1/Spine2/RShoulder/RArm/RForeArm/RHand
+        weight: 1
+      - path: Armature/pm0134_00/Origin/Waist/Spine1/Spine2/RShoulder/RArm/RForeArm/RHand/EndRHand
+        weight: 1
+      - path: Armature/pm0134_00/Origin/Waist/Spine1/Spine2/RShoulder/RArm/RForeArm/RHand/EndRHand/EndRHand_end
+        weight: 1
+      - path: Armature/pm0134_00/pm0134_00_BodySkin
+        weight: 1
+      - path: Armature/pm0134_00/pm0134_00_BodySkin/pm0134_00_BodySkin_end
+        weight: 1
+      - path: Vaporeon
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Escape
+      takeName: Armature|ArmatureAction
+      firstFrame: 169
+      lastFrame: 229
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Armature
+        weight: 1
+      - path: Armature/pm0134_00
+        weight: 1
+      - path: Armature/pm0134_00/Origin
+        weight: 1
+      - path: Armature/pm0134_00/Origin/Waist
+        weight: 1
+      - path: Armature/pm0134_00/Origin/Waist/Hips
+        weight: 1
+      - path: Armature/pm0134_00/Origin/Waist/Hips/EndHips
+        weight: 1
+      - path: Armature/pm0134_00/Origin/Waist/Hips/EndHips/EndHips_end
+        weight: 1
+      - path: Armature/pm0134_00/Origin/Waist/Hips/LThigh
+        weight: 1
+      - path: Armature/pm0134_00/Origin/Waist/Hips/LThigh/LLeg
+        weight: 1
+      - path: Armature/pm0134_00/Origin/Waist/Hips/LThigh/LLeg/LFoot
+        weight: 1
+      - path: Armature/pm0134_00/Origin/Waist/Hips/LThigh/LLeg/LFoot/EndLFoot
+        weight: 1
+      - path: Armature/pm0134_00/Origin/Waist/Hips/LThigh/LLeg/LFoot/EndLFoot/EndLFoot_end
+        weight: 1
+      - path: Armature/pm0134_00/Origin/Waist/Hips/LThigh/LLeg/LFoot/LToe
+        weight: 1
+      - path: Armature/pm0134_00/Origin/Waist/Hips/LThigh/LLeg/LFoot/LToe/EndLToe
+        weight: 1
+      - path: Armature/pm0134_00/Origin/Waist/Hips/LThigh/LLeg/LFoot/LToe/EndLToe/EndLToe_end
+        weight: 1
+      - path: Armature/pm0134_00/Origin/Waist/Hips/RThigh
+        weight: 1
+      - path: Armature/pm0134_00/Origin/Waist/Hips/RThigh/RLeg
+        weight: 1
+      - path: Armature/pm0134_00/Origin/Waist/Hips/RThigh/RLeg/RFoot
+        weight: 1
+      - path: Armature/pm0134_00/Origin/Waist/Hips/RThigh/RLeg/RFoot/EndRFoot
+        weight: 1
+      - path: Armature/pm0134_00/Origin/Waist/Hips/RThigh/RLeg/RFoot/EndRFoot/EndRFoot_end
+        weight: 1
+      - path: Armature/pm0134_00/Origin/Waist/Hips/RThigh/RLeg/RFoot/RToe
+        weight: 1
+      - path: Armature/pm0134_00/Origin/Waist/Hips/RThigh/RLeg/RFoot/RToe/EndRToe
+        weight: 1
+      - path: Armature/pm0134_00/Origin/Waist/Hips/RThigh/RLeg/RFoot/RToe/EndRToe/EndRToe_end
+        weight: 1
+      - path: Armature/pm0134_00/Origin/Waist/Hips/Tail1
+        weight: 1
+      - path: Armature/pm0134_00/Origin/Waist/Hips/Tail1/Tail2
+        weight: 1
+      - path: Armature/pm0134_00/Origin/Waist/Hips/Tail1/Tail2/Tail3
+        weight: 1
+      - path: Armature/pm0134_00/Origin/Waist/Hips/Tail1/Tail2/Tail3/Tail4
+        weight: 1
+      - path: Armature/pm0134_00/Origin/Waist/Hips/Tail1/Tail2/Tail3/Tail4/Tail5
+        weight: 1
+      - path: Armature/pm0134_00/Origin/Waist/Hips/Tail1/Tail2/Tail3/Tail4/Tail5/Tail6
+        weight: 1
+      - path: Armature/pm0134_00/Origin/Waist/Hips/Tail1/Tail2/Tail3/Tail4/Tail5/Tail6/Tail7
+        weight: 1
+      - path: Armature/pm0134_00/Origin/Waist/Hips/Tail1/Tail2/Tail3/Tail4/Tail5/Tail6/Tail7/Tail8
+        weight: 1
+      - path: Armature/pm0134_00/Origin/Waist/Hips/Tail1/Tail2/Tail3/Tail4/Tail5/Tail6/Tail7/Tail8/EndTail8
+        weight: 1
+      - path: Armature/pm0134_00/Origin/Waist/Hips/Tail1/Tail2/Tail3/Tail4/Tail5/Tail6/Tail7/Tail8/EndTail8/EndTail8_end
+        weight: 1
+      - path: Armature/pm0134_00/Origin/Waist/Hips/Tail1/Tail2/Tail3/Tail4/Tail5/Tail6/Tail7/Tail8/LTail
+        weight: 1
+      - path: Armature/pm0134_00/Origin/Waist/Hips/Tail1/Tail2/Tail3/Tail4/Tail5/Tail6/Tail7/Tail8/LTail/EndLTail
+        weight: 1
+      - path: Armature/pm0134_00/Origin/Waist/Hips/Tail1/Tail2/Tail3/Tail4/Tail5/Tail6/Tail7/Tail8/LTail/EndLTail/EndLTail_end
+        weight: 1
+      - path: Armature/pm0134_00/Origin/Waist/Hips/Tail1/Tail2/Tail3/Tail4/Tail5/Tail6/Tail7/Tail8/RTail
+        weight: 1
+      - path: Armature/pm0134_00/Origin/Waist/Hips/Tail1/Tail2/Tail3/Tail4/Tail5/Tail6/Tail7/Tail8/RTail/EndRTail
+        weight: 1
+      - path: Armature/pm0134_00/Origin/Waist/Hips/Tail1/Tail2/Tail3/Tail4/Tail5/Tail6/Tail7/Tail8/RTail/EndRTail/EndRTail_end
+        weight: 1
+      - path: Armature/pm0134_00/Origin/Waist/Spine1
+        weight: 1
+      - path: Armature/pm0134_00/Origin/Waist/Spine1/Spine2
+        weight: 1
+      - path: Armature/pm0134_00/Origin/Waist/Spine1/Spine2/LShoulder
+        weight: 1
+      - path: Armature/pm0134_00/Origin/Waist/Spine1/Spine2/LShoulder/LArm
+        weight: 1
+      - path: Armature/pm0134_00/Origin/Waist/Spine1/Spine2/LShoulder/LArm/LForeArm
+        weight: 1
+      - path: Armature/pm0134_00/Origin/Waist/Spine1/Spine2/LShoulder/LArm/LForeArm/LHand
+        weight: 1
+      - path: Armature/pm0134_00/Origin/Waist/Spine1/Spine2/LShoulder/LArm/LForeArm/LHand/EndLHand
+        weight: 1
+      - path: Armature/pm0134_00/Origin/Waist/Spine1/Spine2/LShoulder/LArm/LForeArm/LHand/EndLHand/EndLHand_end
+        weight: 1
+      - path: Armature/pm0134_00/Origin/Waist/Spine1/Spine2/Neck
+        weight: 1
+      - path: Armature/pm0134_00/Origin/Waist/Spine1/Spine2/Neck/Head
+        weight: 1
+      - path: Armature/pm0134_00/Origin/Waist/Spine1/Spine2/Neck/Head/FeelerA
+        weight: 1
+      - path: Armature/pm0134_00/Origin/Waist/Spine1/Spine2/Neck/Head/FeelerA/EndFeelerA
+        weight: 1
+      - path: Armature/pm0134_00/Origin/Waist/Spine1/Spine2/Neck/Head/FeelerA/EndFeelerA/EndFeelerA_end
+        weight: 1
+      - path: Armature/pm0134_00/Origin/Waist/Spine1/Spine2/Neck/Head/FeelerB
+        weight: 1
+      - path: Armature/pm0134_00/Origin/Waist/Spine1/Spine2/Neck/Head/FeelerB/EndFeelerB
+        weight: 1
+      - path: Armature/pm0134_00/Origin/Waist/Spine1/Spine2/Neck/Head/FeelerB/EndFeelerB/EndFeelerB_end
+        weight: 1
+      - path: Armature/pm0134_00/Origin/Waist/Spine1/Spine2/Neck/Head/LEar1
+        weight: 1
+      - path: Armature/pm0134_00/Origin/Waist/Spine1/Spine2/Neck/Head/LEar1/LEar2
+        weight: 1
+      - path: Armature/pm0134_00/Origin/Waist/Spine1/Spine2/Neck/Head/LEar1/LEar2/EndLEar2
+        weight: 1
+      - path: Armature/pm0134_00/Origin/Waist/Spine1/Spine2/Neck/Head/LEar1/LEar2/EndLEar2/EndLEar2_end
+        weight: 1
+      - path: Armature/pm0134_00/Origin/Waist/Spine1/Spine2/Neck/Head/REar1
+        weight: 1
+      - path: Armature/pm0134_00/Origin/Waist/Spine1/Spine2/Neck/Head/REar1/REar2
+        weight: 1
+      - path: Armature/pm0134_00/Origin/Waist/Spine1/Spine2/Neck/Head/REar1/REar2/EndREar2
+        weight: 1
+      - path: Armature/pm0134_00/Origin/Waist/Spine1/Spine2/Neck/Head/REar1/REar2/EndREar2/EndREar2_end
+        weight: 1
+      - path: Armature/pm0134_00/Origin/Waist/Spine1/Spine2/RShoulder
+        weight: 1
+      - path: Armature/pm0134_00/Origin/Waist/Spine1/Spine2/RShoulder/RArm
+        weight: 1
+      - path: Armature/pm0134_00/Origin/Waist/Spine1/Spine2/RShoulder/RArm/RForeArm
+        weight: 1
+      - path: Armature/pm0134_00/Origin/Waist/Spine1/Spine2/RShoulder/RArm/RForeArm/RHand
+        weight: 1
+      - path: Armature/pm0134_00/Origin/Waist/Spine1/Spine2/RShoulder/RArm/RForeArm/RHand/EndRHand
+        weight: 1
+      - path: Armature/pm0134_00/Origin/Waist/Spine1/Spine2/RShoulder/RArm/RForeArm/RHand/EndRHand/EndRHand_end
+        weight: 1
+      - path: Armature/pm0134_00/pm0134_00_BodySkin
+        weight: 1
+      - path: Armature/pm0134_00/pm0134_00_BodySkin/pm0134_00_BodySkin_end
+        weight: 1
+      - path: Vaporeon
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
